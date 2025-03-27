@@ -3,9 +3,9 @@
 
 # 🚧 **WORK IN PROGRESS** 🚧  
 
-> **⚠️ This project is currently under development. Expect frequent changes & updates**  
+> **⚠️ This project is currently under development.**  
 
-![WIP Banner](https://via.placeholder.com/800x200.png?text=🚧+Work+In+Progress+🚧)  
+
 ## Overview
 
 This repository focuses on studying and analyzing animal extinction rates worldwide. It aims to provide a comprehensive understanding of how human activities, climate change, and other factors are accelerating the loss of biodiversity. Using data-driven insights, we explore trends, patterns, and potential mitigation strategies to address the global extinction crisis.
